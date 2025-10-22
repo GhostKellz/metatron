@@ -1,7 +1,10 @@
 .zig-cache/
 zig-out/
+archive/
 *.o
 *.exe
 CLAUDE.md
 TODO.md
 DEVELOPMENT_ROADMAP.md
+TODO.md 
+CODEX.md
